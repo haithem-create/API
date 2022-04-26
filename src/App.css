@@ -1,0 +1,25 @@
+.card {
+  width: 25%;
+  height: 450px;
+  background-color: rgba(55, 56, 63, 0.589);
+  color: rgb(216, 202, 202);
+  text-align: center;
+  border-bottom-right-radius: 125px;
+
+  padding: 10px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+h2,
+h4,
+p {
+  color: rgba(44, 44, 231, 0.616);
+}
+.data-style {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  border: 2px solid rgba(175, 171, 171, 0.603);
+  margin: 50px 20px !important;
+  padding: 10px;
+}
